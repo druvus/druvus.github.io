@@ -11,30 +11,39 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* M.S. in Engineering Biology, Umeå University, 2003
+* Ph.D in Plant Molecular Biology, Umeå University, 2008
 
 Work experience
 ======
+* 2014-present: Deputy Research Director
+  * Swedish Defence Research Agency
+  * Duties included: Microbial Forensics & population genetics
+
 * Summer 2015: Research Assistant
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* 2014-2015: Research Associate
+  * Harvard University
+  * Duties included: Bioinformatics support (NGS & microarray)
+
+* 2012-2016: Lecturer
+  * Umeå University
+  * Duties included: Analysis human WGS data 
+
+* 2008-2014: Scientist
+  * Swedish Defence Research Agency
+  * Duties included: Analysis sequencing data
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Bioinformatics
+* Programming
+  * Python
+  * R
+* Team management
 
 Publications
 ======
@@ -56,4 +65,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 3 different slack teams

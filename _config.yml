@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Andreas Sjödin, PhD"
 title_separator          : "-"
-name                     : &name "Andreas"
+name                     : &name "Andreas Sjödin"
 description              : &description "personal description"
 url                      : https://druvus.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -79,8 +79,8 @@ analytics:
 author:
   name             : "Andreas Sjödin"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Computational biologist"
+  location         : "Umeå, Sweden"
   employer         : 
   googlescholar    : "https://scholar.google.se/citations?user=TfrQC2AAAAAJ&hl=en"
   email            : 
@@ -92,12 +92,12 @@ author:
   facebook         : 
   foursquare       :
   github           : "druvus"
-  google_plus      :
+  google_plus      : "https://plus.google.com/u/0/+AndreasSj%C3%B6din"
   keybase          :
   instagram        : 
   lastfm           :
-  linkedin         :
-  orcid            : "orcid.org/0000-0001-5350-4219"
+  linkedin         : 
+  orcid            : "http://orcid.org/0000-0001-5350-4219"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
