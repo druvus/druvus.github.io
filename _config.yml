@@ -92,7 +92,7 @@ author:
   facebook         : 
   foursquare       :
   github           : "druvus"
-  google_plus      : "+AndreasSj%C3%B6din"
+  google_plus      : "AndreasSj%C3%B6din"
   keybase          :
   instagram        : 
   lastfm           :
@@ -100,7 +100,7 @@ author:
   orcid            : "http://orcid.org/0000-0001-5350-4219"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : "http://stackoverflow.com/users/7767665/andreas-sjödin"
   steam            :
   tumblr           :
   twitter          : "druvus"
@@ -295,7 +295,7 @@ tag_archive:
 #     category: /categories/:name/
 #     tag: /tags/:name/
 
-
+<
 # HTML Compression
 # - http://jch.penibelst.de/
 compress_html:
