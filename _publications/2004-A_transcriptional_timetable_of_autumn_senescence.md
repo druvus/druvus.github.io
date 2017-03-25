@@ -5,7 +5,7 @@ permalink: /publications/2004-a-transcriptional-timetable-of-autumn-senescence
 venue: "Genome Biology"
 excerpt: 'Microarray analysis of Populus autumn leaves.'
 date: 2004-03-10
-paperurl: http://academicpages.github.io/files/2004-A_transcriptional_timetable_of_autumn_senescence.pdf
+paperurl: http://druvus.github.io/files/2004-A_transcriptional_timetable_of_autumn_senescence.pdf
 citation: 'Andersson <i>et al</i>. (2004). "A transcriptional timetable of autumn senescence" <i>Genome Biology</i>. 5:R24'
 ---
 
