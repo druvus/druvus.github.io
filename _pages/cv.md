@@ -12,18 +12,15 @@ redirect_from:
 Education
 ======
 * M.S. in Engineering Biology, Umeå University, 2003
-* Ph.D in Plant Molecular Biology, Umeå University, 2008
+* Ph.D in Cell and Molecular Biology of Plants, Umeå University, 2008
+  * Populus transcriptomics – from noise to biology
+  * Supervisor: Prof. Stefan Jansson
 
 Work experience
 ======
 * 2014-present: Deputy Research Director
   * Swedish Defence Research Agency
   * Duties included: Microbial Forensics & population genetics
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
 * 2014-2015: Research Associate
   * Harvard University
@@ -36,6 +33,16 @@ Work experience
 * 2008-2014: Scientist
   * Swedish Defence Research Agency
   * Duties included: Analysis sequencing data
+
+* 2008: Research Assistant
+  * Swedish Universuty of Agricultural Sciences 
+  * Duties included: Analysis of plant transcription factors
+  * Supervisor: Prof. Rishikesh Bhalerao
+
+* 2008: Research Assistant
+  * Umeå University
+  * Duties included: Build Populus commnunity portal
+  * Supervisor: Prof. Stefan Jansson
 
 Skills
 ======
